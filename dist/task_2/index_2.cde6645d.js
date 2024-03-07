@@ -1,0 +1,2 @@
+const e=document.querySelector(".timer");let t=30;const a=setInterval(function(){10==--t&&e.classList.add("animate"),0===t&&(clearInterval(a),e.style.backgroundImage="https://ukraflora.ua/image/cache/catalog/image/cache/catalog/bouquets/14.02.23/4837e948-e996-4377-a9c3-9524456d4997-1100x1100.webp"),e.textContent=`${t} \u{441}\u{435}\u{43A}\u{443}\u{43D}\u{434}`},100);
+//# sourceMappingURL=index_2.cde6645d.js.map

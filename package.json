@@ -2,10 +2,10 @@
   "name": "diana7770-goit-js-hw-18-timerr",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "homepage": "https://diana7770.github.io/diana7770-goit-js-hw-18-timerr/",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url /goit-js-hw-18-timerr",
+    "build": "parcel build src/index.html --public-url /diana7770-goit-js-hw-18-timerr",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
@@ -18,8 +18,8 @@
   "bugs": {
     "url": "https://github.com/diana7770/diana7770-goit-js-hw-18-timerr/issues"
   },
-  "homepage": "https://github.com/diana7770/diana7770-goit-js-hw-18-timerr#readme",
   "dependencies": {
+    "gh-pages": "^6.1.1",
     "parcel": "^2.12.0"
   }
 }
