@@ -1,4 +1,4 @@
-6356
+6358
 75C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\package.json133542503963215535 0
 125C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\@swc\helpers\_\_class_static_private_field_update133542503710980397 1
 117C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\caniuse-lite\data\features\customevent.js133542503712539499 0
@@ -32,7 +32,7 @@
 85C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\commondir133542503955477821 1
 116C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\node-gyp-build-optional-packages\LICENSE133542503633553354 0
 97C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\htmlnano\CHANGELOG.md133542503688761747 0
-75C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules133542503961226672 1
+75C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules133542504367207405 1
 82C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\semver133542503680536458 1
 99C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\domutils\lib\feeds.d.ts133542503665395121 0
 88C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\svgo\LICENSE133542503633453413 0
@@ -152,6 +152,25 @@
 95C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\picocolors\types.ts133542503651672997 0
 80C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\.bin133542503960916848 1
 90C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\semver\LICENSE133542503633463413 0
+114C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\svgo\plugins\convertEllipseToCircle.js133542503680336569 0
+124C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\css-tree\cjs\tokenizer\char-code-definitions.cjs133542503661077599 0
+107C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\csso\node_modules\css-tree\dist133542503712099762 1
+86C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\domhandler133542503652572472 1
+130C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\csso\node_modules\css-tree\lib\syntax\scope\default.js133542503704242882 0
+101C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\lmdb\src\v8-functions.cpp133542503693738890 0
+107C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\caniuse-lite\data\regions\NO.js133542503727690826 0
+101C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\domutils\lib\helpers.d.ts133542503666134707 0
+111C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\type-fest\source\promise-value.d.ts133542503672820871 0
+116C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\@parcel\reporter-dev-server\package.json133542503668513348 0
+128C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\caniuse-lite\data\features\keyboardevent-charcode.js133542503723383309 0
+125C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest4.c133542503689051582 0
+84C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\css-what133542503665585023 1
+99C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\to-regex-range\index.js133542503638530534 0
+121C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\@parcel\optimizer-image\lib\ImageOptimizer.js133542503640589339 0
+131C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\csso\node_modules\css-tree\cjs\lexer\generic-urange.cjs133542503679886938 0
+98C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\universalify\README.md133542503954368450 0
+112C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\cosmiconfig\dist\ExplorerSync.js.map133542503661697281 0
+82C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\.cache133542504367217562 1
 98C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\commander\package.json133542503647845305 0
 86C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\source-map133542503663776053 1
 94C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\.package-lock.json133542503964294912 0
@@ -205,8 +224,8 @@
 98C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\minimatch\package.json133542503953488957 0
 106C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\lmdb\dependencies\lmdb-data-v1133542503633623317 1
 133C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest3.c133542503688332006 0
-82C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\base-x133542503645346721 1
 84C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\escalade133542503653651848 1
+82C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\base-x133542503645346721 1
 93C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\.bin\gh-pages.cmd133542503960966814 0
 138C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\posthtml\node_modules\posthtml-parser\dist\location-tracker.js133542503646236093 0
 104C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\css-tree\dist\csstree.esm.js133542503703973038 0
@@ -259,19 +278,6 @@
 119C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\caniuse-lite\data\features\accelerometer.js133542503649634181 0
 85C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\commander133542503655011200 1
 87C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\cosmiconfig133542503667933688 1
-114C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\svgo\plugins\convertEllipseToCircle.js133542503680336569 0
-124C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\css-tree\cjs\tokenizer\char-code-definitions.cjs133542503661077599 0
-107C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\csso\node_modules\css-tree\dist133542503712099762 1
-86C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\domhandler133542503652572472 1
-130C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\csso\node_modules\css-tree\lib\syntax\scope\default.js133542503704242882 0
-101C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\lmdb\src\v8-functions.cpp133542503693738890 0
-107C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\caniuse-lite\data\regions\NO.js133542503727690826 0
-101C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\domutils\lib\helpers.d.ts133542503666134707 0
-111C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\type-fest\source\promise-value.d.ts133542503672820871 0
-116C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\@parcel\reporter-dev-server\package.json133542503668513348 0
-128C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\caniuse-lite\data\features\keyboardevent-charcode.js133542503723383309 0
-125C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest4.c133542503689051582 0
-84C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\css-what133542503665585023 1
 110C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\@parcel\events\src\ValueEmitter.js133542503659098736 0
 107C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\caniuse-lite\data\regions\KN.js133542503724672671 0
 88C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\domutils\lib133542503669772625 1
@@ -908,11 +914,6 @@
 121C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\@swc\helpers\_\_iterable_to_array_limit_loose133542503713978685 1
 114C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\css-select\node_modules\domhandler\lib133542503663516206 1
 113C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\node-addon-api\tools\eslint-format.js133542503663816030 0
-99C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\to-regex-range\index.js133542503638530534 0
-121C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\@parcel\optimizer-image\lib\ImageOptimizer.js133542503640589339 0
-131C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\csso\node_modules\css-tree\cjs\lexer\generic-urange.cjs133542503679886938 0
-98C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\universalify\README.md133542503954368450 0
-112C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\cosmiconfig\dist\ExplorerSync.js.map133542503661697281 0
 127C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\csso\node_modules\mdn-data\css\syntaxes.schema.json133542503669702652 0
 91C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\srcset\index.js133542503638530534 0
 146C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\css-select\node_modules\entities\lib\generated\decode-data-html.js.map133542503672870860 0
@@ -1030,7 +1031,6 @@
 110C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\type-fest\source\set-required.d.ts133542503675089577 0
 113C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\@parcel\resolver-default\package.json133542503646985671 0
 119C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\electron-to-chromium\chromium-versions.json133542503655001108 0
-124C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\@swc\helpers\src\_initializer_warning_helper.mjs133542503719655426 0
 93C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\@parcel\types\lib133542503654741229 1
 94C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\parse-json\license133542503633543362 0
 104C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\css-tree\cjs\utils\ident.cjs133542503683274888 0
@@ -4507,6 +4507,7 @@
 118C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\caniuse-lite\data\features\font-feature.js133542503716557244 0
 128C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\@swc\helpers\_\_interop_require_default\package.json133542503713648874 0
 117C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\caniuse-lite\data\features\font-smooth.js133542503716747109 0
+91C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\.cache\gh-pages133542506871794379 1
 153C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\svgo\css-select-adapter.d.ts133542503692039869 0
 128C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\caniuse-lite\data\features\form-submit-attributes.js133542503716976976 0
 121C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\caniuse-lite\data\features\form-validation.js133542503717016939 0
@@ -4964,6 +4965,7 @@
 114C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\@swc\helpers\src\_get_prototype_of.mjs133542503719445551 0
 105C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\@parcel\utils\src\throttle.js133542503689821143 0
 125C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\@swc\helpers\src\_initializer_define_property.mjs133542503719625452 0
+124C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\@swc\helpers\src\_initializer_warning_helper.mjs133542503719655426 0
 121C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\@swc\helpers\src\_interop_require_default.mjs133542503719715400 0
 125C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\@swc\helpers\src\_is_native_reflect_construct.mjs133542503719815340 0
 109C:\Users\Admin\Documents\GitHub\diana7770-goit-js-hw-18-timerr\node_modules\@lmdb\lmdb-win32-x64\package.json133542503638210697 0
