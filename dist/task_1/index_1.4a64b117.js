@@ -1,0 +1,2 @@
+const u=document.querySelector(".timer");let t=3600;const e=setInterval(function(){0==--t&&(clearInterval(e),alert("Час вийшов!")),t<=1800&&t%60==0&&alert("Залишилось менше половини часу!");let l=Math.floor(t/3600),o=Math.floor(t%3600/60),r=t%60;u.textContent=` ${l} \u{433}\u{43E}\u{434}\u{438}\u{43D}   ${o} \u{445}\u{432}\u{438}\u{43B}\u{438}\u{43D}   ${r} \u{441}\u{435}\u{43A}\u{443}\u{43D}\u{434}`},1e3);
+//# sourceMappingURL=index_1.4a64b117.js.map

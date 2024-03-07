@@ -1,1 +1,0 @@
-{"mappings":"AAAA;;;;;;AAOA","sources":["src/style.css"],"sourcesContent":[".timer,\r\nh1 {\r\n  font-size: 24px;\r\n  padding: 10px;\r\n  text-align: center;\r\n}\r\n\r\n.animate {\r\n  background-color: rgb(248, 248, 148);\r\n}\r\n"],"names":[],"version":3,"file":"index_1.2cdaf7bc.css.map","sourceRoot":"/__parcel_source_root/"}
